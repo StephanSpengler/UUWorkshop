@@ -3,10 +3,6 @@ layout: default
 title : Uppsala Workshop
 ---
 
-#### Content
-* TOC
-{:toc}
-
 ## Participants
 - Eugène Asarin (Univ. Paris Cité, France)
 - Saddek Bensalem (Grenoble, France)
