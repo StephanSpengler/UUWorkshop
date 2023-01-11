@@ -3,10 +3,9 @@ layout: default
 title : Uppsala Workshop
 ---
 
-## Overview
-- [Participants](#Participants)
-- [Program](#Program)
-- [Venue](#Venue)
+#### Content
+* TOC
+{:toc}
 
 ## Participants
 - Eugène Asarin (Univ. Paris Cité, France)
@@ -149,7 +148,7 @@ The paper was published at USENIX Security’22, and it is a joint work with L. 
 
 #### Jean-Francois Raskin
 
-** LTL Synthesis with a Few Hints
+*LTL Synthesis with a Few Hints*
 
 (Mrudula Balachander, Emmanuel Filiot, and Jean-François Raskin)
 
