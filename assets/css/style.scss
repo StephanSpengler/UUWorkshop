@@ -1,0 +1,37 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#nav a{
+    text-decoration: none;
+}
+
+@media screen and (min-width: 42em) {
+    #nav {
+        float: left;
+        padding: 1rem 2rem;
+        width: 16rem;
+    }
+    #nav-hamburger {
+        display: none;
+    }
+    #main-wrapper {
+        margin-left:16rem;
+    }
+}
+
+@media screen and (max-width: 42em) {
+    #nav {
+        float: inherit;
+        padding: 0rem 2rem;
+    }
+    #nav-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    #nav-content.hide {
+        display:none;
+    }
+}

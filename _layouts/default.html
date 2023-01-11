@@ -1,27 +1,51 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
+<html lang="en-GB">
+    <head>
+        <meta charset="UTF-8">
 
-{% seo %}
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    {% include head-custom.html %}
-  </head>
-  <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
+        {% seo %}
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#157878">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+        <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+        {% include head-custom.html %}
 
-    <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-    </header>
+        <base href="{{site.baseurl}}" />
+    </head>
+    <body>
+        <header class="page-header" role="banner">
+            <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+            <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+        </header>
 
-    <main id="content" class="main-content" role="main">
-      {{ content }}
-    </main>
-  </body>
+        <script>
+        function toggle() {
+            var element = document.getElementById("nav-content");
+            element.className = element.className === "" ? "hide" : "";
+        }
+        </script>
+        <div id="nav">
+            <div id="nav-header">
+                <div id="nav-title">
+                    {% capture nav_title %}### Content{% endcapture %}
+                    {{ nav_title | markdownify }}
+                </div>
+                <a id="nav-hamburger" href="javascript:void(0);" onclick="toggle()">
+                    ☰
+                </a>
+            </div>
+            <div id="nav-content" class="hide">
+                {% capture nav_include %}{% include nav.md %}{% endcapture %}
+                {{ nav_include | markdownify }}
+            </div>
+        </div>
+
+        <div id="main-wrapper">
+            <main id="content" class="main-content" role="main">
+                {{ content }}
+            </main>
+        </div>
+    </body>
 </html>
