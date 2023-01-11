@@ -7,6 +7,16 @@
     text-decoration: none;
 }
 
+#content {
+    padding: 2rem 0rem;
+}
+
+@media screen and (min-width: 86em) {
+    #main-wrapper {
+        margin-right: 16rem;
+    }
+}
+
 @media screen and (min-width: 42em) {
     #nav {
         float: left;
@@ -17,7 +27,7 @@
         display: none;
     }
     #main-wrapper {
-        margin-left:16rem;
+        margin-left: 16rem;
     }
 }
 
