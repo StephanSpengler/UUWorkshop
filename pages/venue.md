@@ -18,7 +18,7 @@ Bus 801 runs between Arlanda and Uppsala central bus station twice every hour fr
 
 #### By taxi
 
-Taxis leave from outside the arrival hall and the journey will take about 30 minutes. The maximum price within [the marked zone](https://www.swedavia.com/arlanda/taxi/price-zon-for-taxi-trips/) is **SEK 695** (1-4 passengers) and **SEK 1115** (5-8 passengers) to one address. Always ask the driver before you start your trip about what price is in effect. For travel outside the marked zone boundaries, the meter rate applies. You can pay by credit card or by cash. For pre booking with Taxi Kurir call <+46-18 123456> or email at <order@ups.taxikurir.se>. You can also make an advance reservation with Uppsala Taxi by calling +46 18 100000.
+Taxis leave from outside the arrival hall and the journey will take about 30 minutes. The maximum price within [the marked zone](https://www.swedavia.com/arlanda/taxi/price-zon-for-taxi-trips/) is **SEK 695** (1-4 passengers) and **SEK 1115** (5-8 passengers) to one address. Always ask the driver before you start your trip about what price is in effect. For travel outside the marked zone boundaries, the meter rate applies. You can pay by credit card or by cash. For pre booking with Taxi Kurir call [+46 18 123456](tel: +4618123456) or email at <order@ups.taxikurir.se>. You can also make an advance reservation with Uppsala Taxi by calling [+46 18 100000](tel: +4618100000).
 
 ### Reach Uppsala from Stockholm-Bromma Airport
 
@@ -28,7 +28,7 @@ Stockholm-Bromma airport is located 9 km west of Stockholm Central Station and 7
 
 The airport bus runs between Bromma airport and Stockholm city bus terminal, next to the central station. The journey lasts 20 minutes (depending on traffic), and the timetable correlates with flight arrival and departure times. The cost is **SEK 99** (approximately EUR 8.8) for a single ticket. You can buy your ticket from the ticket-vending machines or on-line on the flygbussarna.se website. The ticket purchased on-line is valid for 12 months from the purchase date.
 
-#### [Train from Stockholm to Uppsala](pages/venue.html#trains_sth_upp)
+#### Train from Stockholm to Uppsala<a name="trains_sth_upp"></a>
 
 Trains depart from Stockholm Central Station twice per hour from 6 am to 11 pm. The journey to Uppsala Central Station will take 40 minutes and cost **SEK 105-132** (approximately EUR 9-12). You can buy your ticket from a ticket desk in the main hall of the station or from a ticket-vending machine on the platform. To plan your journey, visit the [SJ website](https://www.sj.se/en) and make a search for the trip between **Stockholm C** and **Uppsala C** stations. There are slow **SL pendeltåg**(commuter trains) that takes about an hour are cheaper (**SEK 39** for one time ticket if you buy on the [SL app](https://sl.se/en/in-english/fares--tickets/smart-phone-ticket-app/)).
 
@@ -65,6 +65,6 @@ Search journey from your nearest bus stop to **Polacksbacken** bus stop on UL we
 #### Things to see
 1. Uppsala Cathedral (Domkyrka)
 2. Uppsala Castle (Slott)
-3. Gamla Uppsala
+3. Old Uppsala (Gamla Uppsala)
 4. Uppsala Botanical Garden
 5. Uppsala University main building
