@@ -30,7 +30,7 @@ The airport bus runs between Bromma airport and Stockholm city bus terminal, nex
 
 #### Train from Stockholm to Uppsala<a name="trains_sth_upp"></a>
 
-Trains depart from Stockholm Central Station twice per hour from 6 am to 11 pm. The journey to Uppsala Central Station will take 40 minutes and cost **SEK 105-132** (approximately EUR 9-12). You can buy your ticket from a ticket desk in the main hall of the station or from a ticket-vending machine on the platform. To plan your journey, visit the [SJ website](https://www.sj.se/en) and make a search for the trip between **Stockholm C** and **Uppsala C** stations. There are slow **SL pendeltåg**(commuter trains) that takes about an hour are cheaper (**SEK 39** for one time ticket if you buy on the [SL app](https://sl.se/en/in-english/fares--tickets/smart-phone-ticket-app/)).
+Trains depart from Stockholm Central Station twice per hour from 6 am to 11 pm. The journey to Uppsala Central Station will take 40 minutes and cost **SEK 105-132** (approximately EUR 9-12). You can buy your ticket from a ticket desk in the main hall of the station or from a ticket-vending machine on the platform. To plan your journey, visit the [SJ website](https://www.sj.se/en) and make a search for the trip between **Stockholm C** and **Uppsala C** stations. There are slow **SL pendeltåg** (commuter trains) that takes about an hour are cheaper (**SEK 39** for one time ticket if you buy on the [SL app](https://sl.se/en/in-english/fares--tickets/smart-phone-ticket-app/)).
 
 
 ### Reach Uppsala from Stockholm-Skavsta Airport
