@@ -28,7 +28,7 @@ Stockholm-Bromma airport is located 9 km west of Stockholm Central Station and 7
 
 The airport bus runs between Bromma airport and Stockholm city bus terminal, next to the central station. The journey lasts 20 minutes (depending on traffic), and the timetable correlates with flight arrival and departure times. The cost is **SEK 99** (approximately EUR 8.8) for a single ticket. You can buy your ticket from the ticket-vending machines or on-line on the flygbussarna.se website. The ticket purchased on-line is valid for 12 months from the purchase date.
 
-#### [Train from Stockholm to Uppsala](#trains_sth_upp)
+#### [Train from Stockholm to Uppsala](pages/venue.html#trains_sth_upp)
 
 Trains depart from Stockholm Central Station twice per hour from 6 am to 11 pm. The journey to Uppsala Central Station will take 40 minutes and cost **SEK 105-132** (approximately EUR 9-12). You can buy your ticket from a ticket desk in the main hall of the station or from a ticket-vending machine on the platform. To plan your journey, visit the [SJ website](https://www.sj.se/en) and make a search for the trip between **Stockholm C** and **Uppsala C** stations. There are slow **SL pendeltåg**(commuter trains) that takes about an hour are cheaper (**SEK 39** for one time ticket if you buy on the [SL app](https://sl.se/en/in-english/fares--tickets/smart-phone-ticket-app/)).
 
@@ -42,7 +42,7 @@ Stockholm-Skavsta airport is located 110 km south of Stockholm Central Station a
 The airport shuttle buses run between Skavsta Airport and Stockholm Central Station about 30 minutes after every flight arrival (the bus waits for delayed flights). The journey to Stockholm will take about 80 minutes and cost **SEK 219** (approximately EUR 19.5) for a single ticket. You can buy your ticket from the ticket-vending machines or on-line on the [flygbussarna](https://www.flygbussarna.se/en/) website. The ticket purchased on-line is valid for 12 months from the purchase date.
 
 #### Train from Stockholm to Uppsala
-[See above](venue.html#train_sth_upp)
+[See above](pages/venue.html#trains_sth_upp)
 
 ### Reach Uppsala from Stockholm-Västerås Airport
 
@@ -55,3 +55,16 @@ The regional bus 773 runs from Västerås Central Station to Uppsala Central Sta
 #### By train
 
 There are no direct trains from Västerås to Uppsala, but you can reach Uppsala by switching lines in Enköping or Sala. To plan your journey, visit the [SJ website](https://www.sj.se/en) and make a search for the trip between **Västerås C** and **Uppsala C** stations.
+
+### Local information
+There are bus connections everywhere in the city and from the city to the outskirts. You can find the schedule on the [UL website](https://www.ul.se/en) or the app ([for iOS](https://apps.apple.com/in/app/ul/id885812551) or [for Android](https://play.google.com/store/apps/details?id=se.ul.app)). Buy tickets on the app or on the bus only by card.
+
+#### Reach campus New Ångstrom
+Search journey from your nearest bus stop to **Polacksbacken** bus stop on UL website or app.
+
+#### Things to see
+1. Uppsala Cathedral (Domkyrka)
+2. Uppsala Castle (Slott)
+3. Gamla Uppsala
+4. Uppsala Botanical Garden
+5. Uppsala University main building
