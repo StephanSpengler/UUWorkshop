@@ -195,3 +195,20 @@ This talk will be based on join work with Parosh Aziz Abdulla, Yu-Fang Chen, Bui
   <summary>▶ Abstract</summary>
   String data type is present in all modern programming and is a part of the core semantics of programming languages such as JavaScript and Python. The testing and verification of such programs require a decision procedure for string constraints. The types of constraints include: (1) equality constraints of the form t1 = t2 where t1 and t2 consist of a sequence of string variables and constants, (2) regular constraints of the form x 2 R where x is a string variable and R is a regular language, and (3) integer constraints which are linear arithmetic formulas over the length of the string variables. In this keynote talk, we will present our recent decision procedure for string constraints. We will focus on the decision procedure that uses the Counter-Example Guided Abstraction Refinement (CEGAR) framework which contains both an under- and an over-approximation module running in an alternating manner. The flow of information between these modules is used to increase their precision in an automatic manner.
 </details>
+
+#### Shaz Qadeer
+
+*Reasoning with permissions using linear types and first-order logic*
+
+This talk will be based on join work with Parosh Aziz Abdulla, Yu-Fang Chen, Bui Phi Diep, Julian Dolby, Lukas Holik, Denghang Hu, Petr Janku, Hsin-Hung Lin, Ahmed Rezine, Philipp Rümmer, Wei-Lun Tsai, Wei-Cheng Wu, Zhillin Wu and Di-De Yen.
+
+<details>
+  <summary>▶ Abstract</summary>
+  Local reasoning is achieved when the specification of the effects of a code fragment can be used     to reason effectively in any context where those effects are relevant. Local reasoning is essential for framing of loops and calls in sequential code and for noninterference reasoning in concurrent code.
+
+  The Civl approach to local reasoning combines two independent reasoning systems--types and logic.    Like many other verifiers (EscJava, Dafny, Viper, VeriFast, and Ivy to name a few), Civl uses a    satisfiability solver for logical reasoning. In addition to the usual types whose values may be freely duplicated, Civl also provides linear types whose values may not be duplicated.
+
+  Civl enables local reasoning via programmable ownership expressed using permissions that must be held to perform critical operations that mutate state. Permissions are linearly-typed sets in Civl that may be split and joined but not duplicated. The Civl type system guarantees that at runtime permissions residing in distinct variables are disjoint. The verification condition generator in Civl soundly injects such disjointness facts as assumptions into the verification conditions of the program.
+
+  In this talk, I will motivate the need for permissions and illustrate their benefits. I hope to convince the audience that permissions are indispensable for tractable and automated local proofs.
+</details>
