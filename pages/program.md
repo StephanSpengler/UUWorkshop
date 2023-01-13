@@ -212,3 +212,14 @@ This talk will be based on join work with Parosh Aziz Abdulla, Yu-Fang Chen, Bui
 
   In this talk, I will motivate the need for permissions and illustrate their benefits. I hope to convince the audience that permissions are indispensable for tractable and automated local proofs.
 </details>
+
+#### Eugene Asarin
+
+*Timed pattern-matching*
+
+This talk will be based on a series of joint works with O.&nbsp;Maler, D.&nbsp;Ulus, Th.&nbsp;Ferrère, D.&nbsp;Nickovic and A.&nbsp;Bakhirkin.
+
+<details>
+  <summary>▶ Abstract</summary>
+  Timed pattern matching consists in finding occurrences of a timed regular expression in a timed word.  I will present a simple (and visual) algorithm, and discuss applications to runtime verification/log analysis. On the theoretical side I will address the complexity of the problem depending on the kind of expressions used, and present a couple of open questions.
+</details>
