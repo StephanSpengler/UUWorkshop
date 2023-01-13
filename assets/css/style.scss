@@ -7,9 +7,21 @@
     text-decoration: none;
 }
 
+#static-header {
+    position: fixed;
+    width: 100%;
+    padding: 0rem;
+    visibility: hidden;
+}
+
+#static-header.visible {
+    visibility: inherit;
+}
+
 .main-content {
     padding: 0rem;
 }
+
 
 @media all and (min-width: 80em) {
     #main-wrapper {

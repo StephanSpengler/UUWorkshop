@@ -15,7 +15,11 @@
         <base href="{{site.baseurl}}" />
     </head>
     <body>
-        <header class="page-header" role="banner">
+        <header id="static-header" class="page-header" role="banner">
+            <h1 class="project-name">{{ site.title }}</h1>
+        </header>
+
+        <header id="page-header" class="page-header" role="banner">
             <h1 class="project-name">{{ site.title }}</h1>
             <h2 class="project-tagline">{{ site.tagline }}</h2>
             <h3 class="project-date">{{ site.date }}</h3>
@@ -23,8 +27,15 @@
         </header>
 
         <script>
+        function e(id) { return document.getElementById(id); }
+
+        window.onscroll = function() {
+            let visible = document.documentElement.scrollTop > e("page-header").offsetHeight - e("static-header").offsetHeight;
+            visible ? e("static-header").classList.add("visible") : e("static-header").classList.remove("visible");
+        }
+
         function toggle() {
-            var element = document.getElementById("nav-content");
+            let element = e("nav-content");
             element.className = element.className === "" ? "hide" : "";
         }
         </script>
