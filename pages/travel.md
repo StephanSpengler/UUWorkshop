@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Venue
+## Travel Information
 
 ### Reach Uppsala from Arlanda airport
 
