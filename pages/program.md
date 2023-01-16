@@ -127,7 +127,7 @@ The paper was published at USENIX Security’22, and it is a joint work with L. 
   I will survey some recent results in the theory of context-bounded exploration. Our model and results are inspired by a seminal paper of Atig, Bouajjani, and Qadeer from 2009.
 </details>
 
-#### Tayssir Toulil
+#### Tayssir Touili
 
 *On static malware detection*
 
