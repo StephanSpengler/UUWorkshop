@@ -31,6 +31,7 @@ layout: default
 - Faouzi Atig
 - Eva Darulova
 - Sarbojit Das
+- Lars-Henrik Eriksson
 - Zafer Esen
 - Pierre Flener
 - Susanne Graf
@@ -39,3 +40,4 @@ layout: default
 - Kostis Sagonas
 - Stephan Spengler
 - Wang Yi
+- Tjark Weber
