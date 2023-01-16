@@ -37,6 +37,7 @@ layout: default
 - Susanne Graf
 - Samuel Grahn
 - Bengt Jonsson
+- Rémi Parrot
 - Kostis Sagonas
 - Stephan Spengler
 - Wang Yi
