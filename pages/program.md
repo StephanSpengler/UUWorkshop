@@ -221,3 +221,16 @@ This talk will be based on a series of joint works with O.&nbsp;Maler, D.&nbsp;U
   <summary>▶ Abstract</summary>
   Timed pattern matching consists in finding occurrences of a timed regular expression in a timed word.  I will present a simple (and visual) algorithm, and discuss applications to runtime verification/log analysis. On the theoretical side I will address the complexity of the problem depending on the kind of expressions used, and present a couple of open questions.
 </details>
+
+#### Kostis Sagonas
+
+*Awaiting for Godot: Stateless Model Checking that Avoids Executions where Nothing Happens*
+
+This is joint work with Bengt Jonsson and Magnus Lång. It has been published at FMCAD 2022.
+
+<details>
+  <summary>▶ Abstract</summary>
+  Stateless Model Checking (SMC) is a verification technique for concurrent programs that checks for safety violations by exploring all possible thread schedulings. It is highly effective when coupled with Dynamic Partial Order Reduction (DPOR), which introduces an equivalence on schedulings and need explore only one in each equivalence class. Even with DPOR, SMC often spends unnecessary effort in exploring loop iterations that are pure, i.e., have no effect on the program state.
+
+  We present techniques for making SMC with DPOR more effective on programs with pure loop iterations. The first is a static program analysis to detect loop purity and an associated program transformation, called Partial Loop Purity Elimination, that inserts assume statements to block pure loop iterations. Subsequently, some of these assumes are turned into await statements that completely remove many assume-blocked executions. Finally, we present an extension of the standard DPOR equivalence, obtained by weakening the conflict relation between events. All these techniques are incorporated into a new DPOR algorithm, Optimal-DPOR-Await, which can handle both awaits and the weaker conflict relation, is optimal in the sense that it explores exactly one execution in each equivalence class, and can also diagnose livelocks. Our implementation in Nidhugg shows that these techniques can significantly speed up the analysis of concurrent programs that are currently challenging for SMC tools, both for exploring their complete set of interleavings, but even for detecting concurrency errors in them.
+</details>
