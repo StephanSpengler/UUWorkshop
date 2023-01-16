@@ -33,6 +33,9 @@ layout: default
 - Sarbojit Das
 - Zafer Esen
 - Pierre Flener
+- Susanne Graf
+- Samuel Grahn
 - Bengt Jonsson
+- Kostis Sagonas
 - Stephan Spengler
 - Wang Yi
