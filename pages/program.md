@@ -200,8 +200,6 @@ This talk will be based on join work with Parosh Aziz Abdulla, Yu-Fang Chen, Bui
 
 *Reasoning with permissions using linear types and first-order logic*
 
-This talk will be based on join work with Parosh Aziz Abdulla, Yu-Fang Chen, Bui Phi Diep, Julian Dolby, Lukas Holik, Denghang Hu, Petr Janku, Hsin-Hung Lin, Ahmed Rezine, Philipp Rümmer, Wei-Lun Tsai, Wei-Cheng Wu, Zhillin Wu and Di-De Yen.
-
 <details>
   <summary>▶ Abstract</summary>
   Local reasoning is achieved when the specification of the effects of a code fragment can be used     to reason effectively in any context where those effects are relevant. Local reasoning is essential for framing of loops and calls in sequential code and for noninterference reasoning in concurrent code.
