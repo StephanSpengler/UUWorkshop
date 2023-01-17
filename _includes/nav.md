@@ -2,3 +2,4 @@
 * [Participants](pages/participants.html)
 * [Program](pages/program.html)
 * [Travel Information](pages/travel.html)
+* [Contact](pages/contact.html)
