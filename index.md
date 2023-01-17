@@ -10,5 +10,13 @@ This is a three-day workshop celebrating Ahmed Bouajjani. He has been awarded an
 
 Program
 
+- 8:45--9:00. Opening
+- 9:00--9:30 Ahmed Bouajjani
+	- TBD
+
 - Javier Esparza
 	- Interactive proofs and BDDs
+	
+- Radu Iosif
+	-Reasoning about Distributed Reconfigurable Systems
+
