@@ -91,9 +91,9 @@ Wednesday
 - 10:20--10:50 Coffee Break
 	
 - 10:50--11:30   Paul Fiterau-Brostean
- Automata-Based Automated Detection of State Machine Bugs in Protocol Implementations
+-	Automata-Based Automated Detection of State Machine Bugs in Protocol Implementations
  
-- 11:30--12:10  Bengt Jonsson: 
+- 11:30--12:10  Bengt Jonsson
  	- Model Learning for Automata Models with Data
  
 - 12:10--14:00 Lunch
