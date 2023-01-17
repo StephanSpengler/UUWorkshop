@@ -10,3 +10,5 @@ This is a three-day workshop celebrating Ahmed Bouajjani. He has been awarded an
 
 Program
 
+- Javier Esparza
+	- Interactive proofs and BDDs
