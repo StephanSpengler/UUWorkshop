@@ -42,3 +42,6 @@ layout: default
 - Stephan Spengler
 - Wang Yi
 - Tjark Weber
+- Nikolaus Huber
+- Justin Pearson
+- Pontus Ekberg
