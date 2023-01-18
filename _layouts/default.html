@@ -39,24 +39,23 @@
             element.className = element.className === "" ? "hide" : "";
         }
         </script>
-        <div id="nav">
-            <div id="nav-header">
-                <div id="nav-title">
-                    {% capture nav_title %}### Content{% endcapture %}
-                    {{ nav_title | markdownify }}
+        <div id="page-wrapper">
+            <div id="nav">
+                <div id="nav-header">
+                    <div id="nav-title">
+                        {% capture nav_title %}### Content{% endcapture %}
+                        {{ nav_title | markdownify }}
+                    </div>
+                    <a id="nav-hamburger" href="javascript:void(0);" onclick="toggle()">
+                        ☰
+                    </a>
                 </div>
-                <a id="nav-hamburger" href="javascript:void(0);" onclick="toggle()">
-                    ☰
-                </a>
+                <div id="nav-content" class="hide">
+                    {% capture nav_include %}{% include nav.md %}{% endcapture %}
+                    {{ nav_include | markdownify }}
+                </div>
             </div>
-            <div id="nav-content" class="hide">
-                {% capture nav_include %}{% include nav.md %}{% endcapture %}
-                {{ nav_include | markdownify }}
-            </div>
-        </div>
-
-        <div id="main-wrapper">
-            <main id="content" class="main-content" role="main">
+            <main id="main-content" class="main-content" role="main">
                 {{ content }}
             </main>
         </div>
