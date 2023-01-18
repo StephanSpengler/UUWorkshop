@@ -14,7 +14,7 @@ layout: default
 - Rupak Majumdar (MPI SWS, Kaiserslautern, Germany)
 - Roland Meyer (Univ. Braunschweig, Germany)
 - Madhavan Mukund (CMI, Chennai, India)
-- Markus Muller-Olm (Munster, Germany)
+- Markus Müller-Olm (Munster, Germany)
 - Kumar Narayan (CMI, Chennai, India)
 - Andreas Podelski (Univ Freiburg, Germany)
 - Shaz Qadeer (Meta, USA)
