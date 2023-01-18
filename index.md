@@ -14,35 +14,35 @@ Monday
 
 - 9:00--9:10. Opening
 
-- 9:00--9:40 Ahmed Bouajjani
+- 9:10--9:50 Ahmed Bouajjani
 	- TBD
 
--  9:40--10:20 Javier Esparza
+-  9:50--10:30 Javier Esparza
 	- Interactive proofs and BDDs
 
-- 10:20--10:50 Coffee Break
+- 10:30--11:00 Coffee Break
 	
-- 10:50--11:30 Radu Iosif
+- 11:00--11:40 Radu Iosif
 	- Reasoning about Distributed Reconfigurable Systems
 
-- 11:30--12:10 Wang Yi
+- 11:40--12:20 Wang Yi
 	- MIMOS: from theory to tools for embedded software design & update	
 	
-- 12:10--14:00 Lunch
+- 12:20--13:40 Lunch
 	- Restaurant Rullan
 
-- 14:00--14:40 Constantin Enea
+- 13:40--14:20 Constantin Enea
 	- Reasoning About Consistency of Storage Systems and Applications.
 
-- 14:00--14:40 Shaz Qadeer
+- 14:20--15:00 Shaz Qadeer
 	- Reasoning with permissions using linear types and first-order logic
 	
-- 14:40--15:30  Coffee Break 
+- 15:00--15:40  Coffee Break 
 
-- 15:30--16:10  Roland Meyer
+- 15:40--16:20  Roland Meyer
 	- A Concurrent Program Logic with a Future and History
 
-- 16:10--16:50 Markus Muller-Olm
+- 16:20--16:00 Markus Muller-Olm
 	- Logics for Asynchronous Hyperproperties
 
 
@@ -61,16 +61,16 @@ Tuesday
 - 11:30--12:10  Ahmed Rezine
 	- Reachability in phaser programs
 
-- 12:10--14:00 Lunch
+- 12:10--13:30 Lunch
 	- Restaurant Rullan
 
-- 14:00--14:40 Tomas Vojnar
+- 13:30--14:10 Tomas Vojnar
 	- Low-Level Bi-Abduction
 
-- 14:00--14:40  Faouzi Atig
+- 14:10--14:50  Faouzi Atig
 	- Flattening String Constraints
 	
-- 14:40--15:30  Coffee Break 
+- 14:50--15:30  Coffee Break 
 
 - 15:30--16:10 Eugene Asarin
 	- Timed pattern-matching
