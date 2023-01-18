@@ -26,6 +26,7 @@ layout: default
 - Prakash Saivasan (IMS, Chennai, India)
 - Tayssir Touili (Université Paris 13, France)
 - Tomas Vojnar (UITS, Brno, Czech Republic)
+- Susanne Graf (VERIMAG, Grenoble, France) 
 
 #### From Uppsala University
 - Faouzi Atig
@@ -34,7 +35,6 @@ layout: default
 - Lars-Henrik Eriksson
 - Zafer Esen
 - Pierre Flener
-- Susanne Graf
 - Samuel Grahn
 - Bengt Jonsson
 - Rémi Parrot
@@ -45,3 +45,4 @@ layout: default
 - Nikolaus Huber
 - Justin Pearson
 - Pontus Ekberg
+- Florian Furbach
