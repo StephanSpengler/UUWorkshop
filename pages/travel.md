@@ -42,7 +42,7 @@ Stockholm-Skavsta airport is located 110 km south of Stockholm Central Station a
 The airport shuttle buses run between Skavsta Airport and Stockholm Central Station about 30 minutes after every flight arrival (the bus waits for delayed flights). The journey to Stockholm will take about 80 minutes and cost **SEK 219** (approximately EUR 19.5) for a single ticket. You can buy your ticket from the ticket-vending machines or on-line on the [flygbussarna](https://www.flygbussarna.se/en/) website. The ticket purchased on-line is valid for 12 months from the purchase date.
 
 #### Train from Stockholm to Uppsala
-[See above](pages/venue.html#trains_sth_upp)
+[See above](pages/travel.html#trains_sth_upp)
 
 ### Reach Uppsala from Stockholm-Västerås Airport
 
