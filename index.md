@@ -8,27 +8,33 @@ This is a three-day workshop celebrating Ahmed Bouajjani. He has been awarded an
 
 ![Ahmed Bouajjani](/assets/images/Ahmed.jpeg)
 
-Program
+## Venue
+**Room 90103<br>
+Ångströmlaboratoriet<br>
+Lägerhyddsvägen 1, hus 9<br>
+Uppsala**
+
+## Program
 
 Monday
 
-- 9:00--9:10. Opening
+- 8:50--9:00. Opening
 
-- 9:10--9:50 Ahmed Bouajjani
+- 9:00--9:40 Ahmed Bouajjani
 	- TBD
 
--  9:50--10:30 Javier Esparza
+-  9:40--10:20 Javier Esparza
 	- Interactive proofs and BDDs
 
-- 10:30--11:00 Coffee Break
+- 10:20--10:50 Coffee Break
 	
-- 11:00--11:40 Radu Iosif
+- 10:50--11:30 Radu Iosif
 	- Reasoning about Distributed Reconfigurable Systems
 
-- 11:40--12:20 Wang Yi
+- 11:30--12:10 Wang Yi
 	- MIMOS: from theory to tools for embedded software design & update	
 	
-- 12:20--13:40 Lunch
+- 12:10--13:40 Lunch
 	- Restaurant Rullan
 
 - 13:40--14:20 Constantin Enea
@@ -42,7 +48,7 @@ Monday
 - 15:40--16:20  Roland Meyer
 	- A Concurrent Program Logic with a Future and History
 
-- 16:20--16:00 Markus Muller-Olm
+- 16:20--17:00 Markus Muller-Olm
 	- Logics for Asynchronous Hyperproperties
 
 
@@ -61,24 +67,24 @@ Tuesday
 - 11:30--12:10  Ahmed Rezine
 	- Reachability in phaser programs
 
-- 12:10--13:30 Lunch
+- 12:10--13:40 Lunch
 	- Restaurant Rullan
 
-- 13:30--14:10 Tomas Vojnar
+- 13:40--14:20 Tomas Vojnar
 	- Low-Level Bi-Abduction
 
-- 14:10--14:50  Faouzi Atig
+- 14:20--15:00  Faouzi Atig
 	- Flattening String Constraints
 	
-- 14:50--15:30  Coffee Break 
+- 15:00--15:40  Coffee Break 
 
-- 15:30--16:10 Eugene Asarin
+- 15:40--16:20 Eugene Asarin
 	- Timed pattern-matching
 	
-- 16:10--16:50  Lukas Holik
+- 16:20--17:00  Lukas Holik
 	- Counting in Regexes Considered Harmful: Exposing ReDoS Vulnerability of Nonbacktracking Matchers*
 
- - 19:00  Workshop Dinner @PepparPeppar Restaurant
+- 19:00  Workshop Dinner @PepparPeppar Restaurant
 
 
 Wednesday
