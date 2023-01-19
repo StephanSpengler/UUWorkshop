@@ -24,86 +24,86 @@ Monday
 - 08:50--09:00 Opening
 
 - 09:00--09:40 Ahmed Bouajjani
-	- TBD
+	- [TBD](pages/talks.html#ahmed-bouajjani)
 
 - 09:40--10:20 Javier Esparza
-	- Interactive proofs and BDDs
+	- [Interactive proofs and BDDs](pages/talks.html#javier-esparza)
 
 - 10:20--10:50 Coffee Break
 
 - 10:50--11:30 Radu Iosif
-	- Reasoning about Distributed Reconfigurable Systems
+	- [Reasoning about Distributed Reconfigurable Systems](pages/talks.html#radu-iosif)
 
 - 11:30--12:10 Wang Yi
-	- MIMOS: from theory to tools for embedded software design & update
+	- [MIMOS: from theory to tools for embedded software design & update](pages/talks.html#wang-yi)
 
 - 12:10--13:40 Lunch
-	- Restaurant Rullan
+	- [Restaurant Rullan](http://www.matikum.se/)
 
 - 13:40--14:20 Constantin Enea
-	- Using Concurrent Objects in Randomized Programs
+	- [Using Concurrent Objects in Randomized Programs](pages/talks.html#constantin-enea)
 
 - 14:20--15:00 Shaz Qadeer
-	- Reasoning with permissions using linear types and first-order logic
+	- [Reasoning with permissions using linear types and first-order logic](pages/talks.html#shaz-qadeer)
 
 - 15:00--15:40 Coffee Break
 
 - 15:40--16:20 Roland Meyer
-	- A Concurrent Program Logic with a Future and History
+	- [A Concurrent Program Logic with a Future and History](pages/talks.html#roland-meyer)
 
 - 16:20--17:00 Markus Müller-Olm
-	- Logics for Asynchronous Hyperproperties
+	- [Logics for Asynchronous Hyperproperties](pages/talks.html#markus-müller-olm)
 
 
 Tuesday
 - 09:00--09:40 Kostis Sagonas
-	- Awaiting for Godot: Stateless Model Checking that Avoids Executions where Nothing Happens
+	- [Awaiting for Godot: Stateless Model Checking that Avoids Executions where Nothing Happens](pages/talks.html#kostis-sagonas)
 
 - 09:40--10:20 Rupak Majumdar
-	- Recent Results in Context-Bounded Exploration
+	- [Recent Results in Context-Bounded Exploration](pages/talks.html#rupak-majumdar)
 
 - 10:20--10:50 Coffee Break
 
 - 10:50--11:30 Tayssir Touili
-	- On static malware detection
+	- [On static malware detection](pages/talks.html#tayssir-touili)
 
 - 11:30--12:10 Ahmed Rezine
-	- Reachability in phaser programs
+	- [Reachability in phaser programs](pages/talks.html#ahmed-rezine)
 
 - 12:10--13:40 Lunch
-	- Restaurant Rullan
+	- [Restaurant Rullan](http://www.matikum.se/)
 
 - 13:40--14:20 Tomás Vojnar
-	- Low-Level Bi-Abduction
+	- [Low-Level Bi-Abduction](pages/talks.html#tomás-vojnar)
 
 - 14:20--15:00 Faouzi Atig
-	- Flattening String Constraints
+	- [Flattening String Constraints](pages/talks.html#faouzi-atig)
 
 - 15:00--15:40 Coffee Break
 
 - 15:40--16:20 Eugene Asarin
-	- Timed pattern-matching
+	- [Timed pattern-matching](pages/talks.html#eugene-asarin)
 
 - 16:20--17:00 Lukás Holík
-	- Counting in Regexes Considered Harmful: Exposing ReDoS Vulnerability of Nonbacktracking Matchers
+	- [Counting in Regexes Considered Harmful: Exposing ReDoS Vulnerability of Nonbacktracking Matchers](pages/talks.html#lukás-holík)
 
-- 19:00 Workshop Dinner at the *Peppar Peppar* Restaurant
+- 19:00 Workshop Dinner at the [*Peppar Peppar*](https://pepparpeppar.se/) Restaurant
 
 
 Wednesday
 - 09:00--09:40 Jean-François Raskin
-	- LTL Synthesis with a Few Hints
+	- [LTL Synthesis with a Few Hints](pages/talks.html#jean-françois-raskin)
 
 - 09:40--10:20 Cezara Dragoi
-	- TBD
+	- [TBD](pages/talks.html#cezara-dragoi)
 
 - 10:20--10:50 Coffee Break
 
 - 10:50--11:30 Paul Fiterau-Brostean
-	- Automata-Based Automated Detection of State Machine Bugs in Protocol Implementations
+	- [Automata-Based Automated Detection of State Machine Bugs in Protocol Implementations](pages/talks.html#paul-fiterau-brostean)
 
 - 11:30--12:10 Bengt Jonsson
-	- Model Learning for Automata Models with Data
+	- [Model Learning for Automata Models with Data](pages/talks.html#bengt-jonsson)
 
 - 12:10--14:00 Lunch
-	- Restaurant Rullan
+	- [Restaurant Rullan](http://www.matikum.se/)
