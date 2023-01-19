@@ -280,7 +280,12 @@ We study a variant of the problem of synthesizing Mealy machines that enforce LT
 
 (Wed 09:40--10:20)
 
-*TBD*
+*Reasoning about State Machine Replication*
+
+<details markdown=1>
+<summary markdown="span"> Abstract</summary>
+State machine replication protocols are the default mechanism for fault-tolerance in distributed systems. These are asynchronous systems where processes communicate by message passing, where messages may be dropped or delayed, or may processes crashing. Asynchrony and faults make these protocols tricky to reason about and therefore implementations buggy. In this talk we will look into alternatives more simple ways, to reason and develop these systems, inspired from the world of synchronous protocols. The talk presents a formalisation of the relation between synchronous and asynchronous fault-tolerant systems and it’s application in verification and execution environments.
+</details>
 
 ---
 
