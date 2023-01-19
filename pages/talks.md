@@ -297,15 +297,18 @@ State machine replication protocols are the default mechanism for fault-toleranc
 
 <details markdown=1>
 <summary markdown="span"> Abstract</summary>
-Implementations of network protocols such as DTLS or SSH must carefully handle complex message flows.
-To do so, they effectively implement a state machine which keeps track of the type and order of exchanged messages.
-Bugs in this state machine, such as the absence of important messages, can pose a severe risk to security.
-To find such bugs, in the past we have employed model learning to automatically generate the implementation's state machine (or an approximation of it), which we then analyzed for bugs.
-Unfortunately, this analysis was done manually, a process that is time-consuming and prone to miss bugs.
+Model Learning (aka Automata learning) is an established class of techniques for inferring automata or mealy-machine models of a software component's input-output behavior by observing how it responds to a sample of input sequences.
 
-In this talk, I will present an automata-based technique which can detect all the state machine bugs found using model learning, but do so fully automatically.
-The technique uses the idea that bug-exposing flows can be captured by finite automata, which, when compared against an implementation's state machine, can reveal corresponding bugs in the implementation.
-My talk will end with a discussion on ongoing efforts to extend this technique, so that it can also detect state machine bugs involving an implementation's handling of data parameters.
+For testing of communication protocols, model learning has proven effective in finding so-called *state machine bugs*, i.e., flaws in the implementation of a protocol's control logic that, e.g., permits to bypass authentication steps or establish insecure connections.
+Model learning is used to automatically infer a state machine description of a protocol implementation.
+The Mealy machine can then be analyzed to spot flaws in the implementation's control logic or check compliance with its specification.
+We present a technique which automates the detection of bugs in learned protocol models.
+It takes as input a catalogue of state machine bugs for the protocol, each specified as a finite automaton which accepts
+sequences of messages that exhibit the bug. By adapting model checking techniques,
+our technique constructs the set of sequences that (according to the model) can be performed by the implementation and
+that (according to the automaton) expose the bug.
+These sequences are then transformed to test cases on the actual implementation to find a witness for the bug or filter out false alarms.
+We have applied our technique on widely-used implementations of security protocols: SSH and DTLS.
 </details>
 
 ---
