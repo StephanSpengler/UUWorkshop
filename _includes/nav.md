@@ -3,3 +3,4 @@
 * [Titles and Abstracts](pages/talks.html)
 * [Travel Information](pages/travel.html)
 * [Contact](pages/contact.html)
+* [Organizers](pages/team.html)
