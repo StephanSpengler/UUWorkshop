@@ -88,13 +88,11 @@ Today, the functionality and economical value of industrial systems and products
 
 (Mon 13:40--14:20)
 
-*Reasoning About Consistency of Storage Systems and Applications*
+*Using Concurrent Objects in Randomized Programs*
 
 <details>
   <summary>▶ Abstract</summary>
-  Modern applications such as e-commerce platforms are centered around using large-scale storage systems for storing and retrieving data. In the presence of concurrent accesses, these storage systems trade off consistency for performance. The weaker the consistency level, the more behaviors a storage system is allowed to exhibit and it is up to the developer to ensure that their application can tolerate those behaviors. However, these weak behaviors only occur rarely in practice and outside the control of the application, making it difficult for developers to check the robustness of their code against weak consistency levels.
-
-  In this talk I will give an overview of algorithmic methods for checking whether a storage system conforms to a certain consistency level or that an application satisfies its intended specification when run under a given consistency level.
+  Atomic concurrent objects, whose operations take place instantaneously, are a powerful technique for designing complex concurrent programs. Since they are not always available, they are typically substituted with software implementations. A prominent condition relating these implementations to their atomic specifications is linearizability, which preserves safety properties of programs using them. However linearizability does not preserve hyper-properties, which include probabilistic guarantees about randomized programs. A more restrictive property, strong linearizability, does preserve hyper-properties but it is impossible to achieve in many situations. In particular, we show that there are no strongly linearizable implementations of multi-writer registers or snapshot objects in message-passing systems. On the other hand, we show that a wide class of linearizable implementations, including well-known ones for registers and snapshots, can be modified to approximate the probabilistic guarantees of randomized programs when using atomic objects. This is joint work with Hagit Attiya and Jennifer Welch.
 </details>
 
 ---

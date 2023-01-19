@@ -41,7 +41,7 @@ Monday
 	- Restaurant Rullan
 
 - 13:40--14:20 Constantin Enea
-	- Reasoning About Consistency of Storage Systems and Applications
+	- Using Concurrent Objects in Randomized Programs
 
 - 14:20--15:00 Shaz Qadeer
 	- Reasoning with permissions using linear types and first-order logic
