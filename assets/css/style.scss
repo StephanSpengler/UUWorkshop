@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+details summary {
+    cursor: pointer;
+    display: list-item;
+}
+
 #page-wrapper {
     display: flex;
 }
