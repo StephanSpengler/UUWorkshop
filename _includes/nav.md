@@ -1,5 +1,5 @@
 * [Start](index.html)
 * [Participants](pages/participants.html)
-* [Talk Details](pages/talks.html)
+* [Titles and Abstracts](pages/talks.html)
 * [Travel Information](pages/travel.html)
 * [Contact](pages/contact.html)

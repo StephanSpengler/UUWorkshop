@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Talk Details
+## Titles and Abstracts
 
 ---
 
