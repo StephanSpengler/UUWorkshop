@@ -24,6 +24,13 @@
             <h4 class="project-location">{{ site.loc }}</h4>
         </header>
 
+        <script>
+            function toggle() {
+                let element = document.getElementById("nav-content");
+                element.className = element.className === "" ? "hide" : "";
+            }
+        </script>
+
         <div id="page-wrapper">
             <div id="nav">
                 <div id="nav-header">
