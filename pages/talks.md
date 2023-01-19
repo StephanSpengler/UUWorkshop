@@ -290,6 +290,19 @@ Joint work with Mrudula Balachander and Emmanuel Filiot.
 
 *Automata-Based Automated Detection of State Machine Bugs in Protocol Implementations*
 
+<details>
+  <summary>▶ Abstract</summary>
+  Implementations of network protocols such as DTLS or SSH must carefully handle complex message flows.
+  To do so, they effectively implement a state machine which keeps track of the type and order of exchanged messages.
+  Bugs in this state machine, such as the absence of important messages, can pose a severe risk to security.
+  To find such bugs, in the past we have employed model learning to automatically generate the implementation's state machine (or an approximation of it), which we then analyzed for bugs.
+  Unfortunately, this analysis was done manually, a process that is time-consuming and prone to miss bugs.
+
+  In this talk, I will present an automata-based technique which can detect all the state machine bugs found using model learning, but do so fully automatically.
+  The technique uses the idea that bug-exposing flows can be captured by finite automata, which, when compared against an implementation's state machine, can reveal corresponding bugs in the implementation.
+  My talk will end with a discussion on ongoing efforts to extend this technique, so that it can also detect state machine bugs involving an implementation's handling of data parameters.
+</details>
+
 ---
 
 #### Bengt Jonsson
