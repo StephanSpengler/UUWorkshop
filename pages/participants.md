@@ -4,11 +4,13 @@ layout: default
 
 ## Participants
 - Eugène Asarin (Univ. Paris Cité, France)
+- Khadija Bakkouch (ENSIAS, University Mohammed 5, Rabat, Morocco)
 - Saddek Bensalem (Grenoble, France)
 - Cezara Drăgoi (INRIA, France)
 - Constantin Enea (Ecole Polytechnique, Palaiseau, France)
 - Mohammed Erradi (ENSIAS, University Mohammed 5, Rabat, Morocco)
 - Javier Esparza (TUM, Germany)
+- Susanne Graf (VERIMAG, Grenoble, France)
 - Lukas Holik (UITS, Brno, Czech Republic)
 - Radu Iosif (Grenoble, France)
 - Rupak Majumdar (MPI SWS, Kaiserslautern, Germany)
@@ -26,7 +28,6 @@ layout: default
 - Prakash Saivasan (IMS, Chennai, India)
 - Tayssir Touili (Université Paris 13, France)
 - Tomas Vojnar (UITS, Brno, Czech Republic)
-- Susanne Graf (VERIMAG, Grenoble, France) 
 
 #### From Uppsala University
 - Faouzi Atig
