@@ -103,7 +103,7 @@ Wednesday
 	- Automata-Based Automated Detection of State Machine Bugs in Protocol Implementations
 
 - 11:30--12:10 Bengt Jonsson
- 	- Model Learning for Automata Models with Data
+	- Model Learning for Automata Models with Data
 
 - 12:10--14:00 Lunch
 	- Restaurant Rullan
