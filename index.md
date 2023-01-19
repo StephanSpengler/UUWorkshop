@@ -87,7 +87,7 @@ Tuesday
 - 16:20--17:00 Lukás Holík
 	- Counting in Regexes Considered Harmful: Exposing ReDoS Vulnerability of Nonbacktracking Matchers
 
-- 19:00 Workshop Dinner @PepparPeppar Restaurant
+- 19:00 Workshop Dinner at the *Peppar Peppar* Restaurant
 
 
 Wednesday

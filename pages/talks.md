@@ -310,3 +310,12 @@ My talk will end with a discussion on ongoing efforts to extend this technique, 
 (Wed 11:30--12:10)
 
 *Model Learning for Automata Models with Data*
+
+<details markdown=1>
+<summary markdown="span"> Abstract</summary>
+Model Learning (aka Automata learning) is an established class of techniques for inferring automata or mealy-machine models of a software component's input-output behavior by observing how it responds to a sample of input sequences.
+
+The previous approach used automata learning to learn finite state machine models of protocols. However, in many situations it is crucial for models to also be able to describe data flow, i.e., constraints on data parameters that are passed when the component interacts with its environment, as well as the mutual influence between control flow and data flow.
+We present an extension of model learning algorithm for register automata, a class of finite state machines extended with data. Our algorithm is parameterized on a particular theory, i.e., a set of operations and tests on the data domain that can be used in guards.
+Our algorithm is based on a generalization of the classical Nerode equivalence and canonical automata construction to the symbolic setting.
+</details>
