@@ -46,3 +46,4 @@ layout: default
 - Justin Pearson
 - Pontus Ekberg
 - Florian Furbach
+- Sandip Ghosal
