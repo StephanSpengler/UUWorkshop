@@ -17,10 +17,6 @@
         <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
     </head>
     <body>
-        <header id="static-header" class="page-header" role="banner">
-            <h1 class="project-name">{{ site.title }}</h1>
-        </header>
-
         <header id="page-header" class="page-header" role="banner">
             <h1 class="project-name">{{ site.title }}</h1>
             <h2 class="project-tagline">{{ site.tagline }}</h2>
@@ -28,19 +24,6 @@
             <h4 class="project-location">{{ site.loc }}</h4>
         </header>
 
-        <script>
-        function e(id) { return document.getElementById(id); }
-
-        window.onscroll = function() {
-            let visible = document.documentElement.scrollTop > e("page-header").offsetHeight - e("static-header").offsetHeight;
-            visible ? e("static-header").classList.add("visible") : e("static-header").classList.remove("visible");
-        }
-
-        function toggle() {
-            let element = e("nav-content");
-            element.className = element.className === "" ? "hide" : "";
-        }
-        </script>
         <div id="page-wrapper">
             <div id="nav">
                 <div id="nav-header">

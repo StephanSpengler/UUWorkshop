@@ -16,17 +16,6 @@ details summary {
     text-decoration: none;
 }
 
-#static-header {
-    position: fixed;
-    width: 100%;
-    padding: 0rem;
-    visibility: hidden;
-}
-
-#static-header.visible {
-    visibility: inherit;
-}
-
 #main-content {
     padding: 2rem;
     max-width: inherit;
