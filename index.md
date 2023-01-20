@@ -37,10 +37,10 @@ Monday
 	- [Using Concurrent Objects in Randomized Programs](pages/talks.html#constantin-enea)
 - 14:20--15:00 Shaz Qadeer
 	- [Reasoning with permissions using linear types and first-order logic](pages/talks.html#shaz-qadeer)
-- 15:00--15:40 Coffee Break
-- 15:40--16:20 Roland Meyer
+- 15:00--15:30 Coffee Break
+- 15:30--16:10 Roland Meyer
 	- [A Concurrent Program Logic with a Future and History](pages/talks.html#roland-meyer)
-- 16:20--17:00 Markus Müller-Olm
+- 16:10--16:50 Markus Müller-Olm
 	- [Logics for Asynchronous Hyperproperties](pages/talks.html#markus-müller-olm)
 
 
@@ -60,10 +60,10 @@ Tuesday
 	- [Low-Level Bi-Abduction](pages/talks.html#tomás-vojnar)
 - 14:20--15:00 Faouzi Atig
 	- [Flattening String Constraints](pages/talks.html#faouzi-atig)
-- 15:00--15:40 Coffee Break
-- 15:40--16:20 Eugene Asarin
+- 15:00--15:30 Coffee Break
+- 15:30--16:10 Eugene Asarin
 	- [Timed pattern-matching](pages/talks.html#eugene-asarin)
-- 16:20--17:00 Lukás Holík
+- 16:10--16:50 Lukás Holík
 	- [Counting in Regexes Considered Harmful: Exposing ReDoS Vulnerability of Nonbacktracking Matchers](pages/talks.html#lukás-holík)
 - 19:00 Workshop Dinner at the [*Peppar Peppar*](https://pepparpeppar.se/) Restaurant
 
