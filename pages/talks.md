@@ -118,7 +118,7 @@ In this talk, I will motivate the need for permissions and illustrate their bene
 
 #### Roland Meyer
 
-(Mon 15:40--16:20)
+(Mon 15:30--16:10)
 
 *A Concurrent Program Logic with a Future and History*
 
@@ -133,7 +133,7 @@ Verifying fine-grained optimistic concurrent programs remains an open problem. M
 
 #### Markus Müller-Olm
 
-(Mon 16:20--17:00)
+(Mon 16:10--16:50)
 
 *Logics for Asynchronous Hyperproperties*
 
@@ -233,7 +233,7 @@ String data type is present in all modern programming and is a part of the core 
 
 #### Eugene Asarin
 
-(Tue 15:40--16:20)
+(Tue 15:30--16:10)
 
 *Timed pattern-matching*
 
@@ -248,7 +248,7 @@ Timed pattern matching consists in finding occurrences of a timed regular expres
 
 #### Lukás Holík
 
-(Tue 16:20--17:00)
+(Tue 16:10--16:50)
 
 *Counting in Regexes Considered Harmful: Exposing ReDoS Vulnerability of Nonbacktracking Matchers*
 
