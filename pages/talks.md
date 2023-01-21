@@ -261,6 +261,21 @@ In this paper, we study the performance characteristics of nonbacktracking regex
 
 ---
 
+#### Anthony W. Lin
+
+(Tue 16.50--17.05)
+
+*Liveness over Randomized Parameterized Systems*
+
+This was joint work with Ondra Lengal, Rupak Majumdar, and Philipp Rümmer, and was published in CAV'16 and TACAS'17.
+
+<details markdown=1>
+<summary markdown="span"> Abstract</summary>
+In this talk, I will present an automatic method for proving almost-sure liveness (i.e. liveness with probability 1) for randomized distributed protocols, i.e., regardless of the number of processes. The method assumes a standard regular symbolic representation in regular model checking, which is a classic and influential framework of infinite-state verification, introduced in 2000 by Ahmed Bouajjani. The algorithm is an automata-learning algorithm that attempts to construct a proof of the liveness property, using regular languages as symbolic representations. I will use Israeli-Jalfon self-stabilizing protocol as an example in the talk, though there are many other examples, whose almost-sure liveness can automatically be proven by this method (e.g. Lehmann-Rabin Randomized Protocol for Dining Philosopher).
+</details>
+
+---
+
 #### Jean-François Raskin
 
 (Wed 09:00--09:40)
