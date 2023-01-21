@@ -17,9 +17,9 @@ This is a three-day workshop celebrating [Ahmed Bouajjani](https://www.irif.fr/~
 Lägerhyddsvägen 1, hus 9\
 Uppsala**
 
-Mazemap: https://link.mazemap.com/mcsaQ187
+Mazemap: [https://link.mazemap.com/mcsaQ187](https://link.mazemap.com/mcsaQ187)
 
-Zoom link: https://uu-se.zoom.us/j/68543245707
+Zoom link: [https://uu-se.zoom.us/j/68543245707](https://uu-se.zoom.us/j/68543245707)
 
 ## Program
 
