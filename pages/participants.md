@@ -30,7 +30,9 @@ layout: default
 - Tomas Vojnar (UITS, Brno, Czech Republic)
 
 #### From Uppsala University
+- Elli Anastasiadi
 - Faouzi Atig
+- Paul Fiterau Brostean
 - Eva Darulova
 - Sarbojit Das
 - Pontus Ekberg
