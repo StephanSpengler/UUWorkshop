@@ -70,7 +70,7 @@ Tuesday
 - 16:10--16:50 Lukás Holík
 	- [Counting in Regexes Considered Harmful: Exposing ReDoS Vulnerability of Nonbacktracking Matchers](pages/talks.html#lukás-holík)
 - 16:50--17:10 Anthony W. Lin
-	- [Liveness over Randomized Parameterized Systems](pages/talks.html#anthony-w.-linn)
+	- [Liveness over Randomized Parameterized Systems](pages/talks.html#anthony-w.-lin)
 - 19:00 Workshop Dinner at the [*Peppar Peppar*](https://pepparpeppar.se/) Restaurant
 
 
