@@ -21,10 +21,10 @@ layout: default
 - Andreas Podelski (Univ Freiburg, Germany)
 - Shaz Qadeer (Meta, USA)
 - Jean-François Raskin (ULB, Belgium)
-- Ahmed Rezine (Linköping University, Sweden) – From Tuesday
+- Ahmed Rezine (Linköping University, Sweden)
 - Riadh Robbana (University of Carthage, Tunisia)
 - Krishna S (IIT, Mumbai, India)
-- Mihaela Sighireanu  (ENS Paris-Saclay, France) – From Tuesday
+- Mihaela Sighireanu  (ENS Paris-Saclay, France)
 - Prakash Saivasan (IMS, Chennai, India)
 - Tayssir Touili (Université Paris 13, France)
 - Tomas Vojnar (UITS, Brno, Czech Republic)
