@@ -62,14 +62,14 @@ Tuesday
 	- [Restaurant Rullan](http://www.matikum.se/)
 - 13:40--14:20 Tomás Vojnar
 	- [Low-Level Bi-Abduction](pages/talks.html#tomás-vojnar)
-- 14:20--15:00 Faouzi Atig
+- 14:20--15:00 Faouzi Atig and Lukás Holík
 	- [Flattening String Constraints](pages/talks.html#faouzi-atig)
 - 15:00--15:30 Coffee Break
 - 15:30--16:10 Eugene Asarin
 	- [Timed pattern-matching](pages/talks.html#eugene-asarin)
-- 16:10--16:50 Lukás Holík
+- 16:10--16:50 Lukás Holík (cancelled)
 	- [Counting in Regexes Considered Harmful: Exposing ReDoS Vulnerability of Nonbacktracking Matchers](pages/talks.html#lukás-holík)
-- 16:50--17:10 Anthony W. Lin
+- 16:50--17:10 Anthony W. Lin (moved to 16:10)
 	- [Liveness over Randomized Parameterized Systems](pages/talks.html#anthony-w.-lin)
 - 19:00 Workshop Dinner at the [*Peppar Peppar*](https://pepparpeppar.se/) Restaurant
 
