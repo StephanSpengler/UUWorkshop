@@ -39,12 +39,12 @@ Monday
 	- [Restaurant Rullan](http://www.matikum.se/)
 - 13:40--14:20 Constantin Enea
 	- [Using Concurrent Objects in Randomized Programs](pages/talks.html#constantin-enea)
-- 14:20--15:00 Shaz Qadeer
+- 14:20--15:00 Shaz Qadeer (moved to 15:30)
 	- [Reasoning with permissions using linear types and first-order logic](pages/talks.html#shaz-qadeer)
 - 15:00--15:30 Coffee Break
-- 15:30--16:10 Roland Meyer
+- 15:30--16:10 Roland Meyer (cancelled)
 	- [A Concurrent Program Logic with a Future and History](pages/talks.html#roland-meyer)
-- 16:10--16:50 Markus Müller-Olm
+- 16:10--16:50 Markus Müller-Olm (moved to 14:20)
 	- [Logics for Asynchronous Hyperproperties](pages/talks.html#markus-müller-olm)
 
 
