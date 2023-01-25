@@ -77,7 +77,7 @@ Tuesday
 Wednesday
 - 09:00--09:40 Jean-François Raskin
 	- [LTL Synthesis with a Few Hints](pages/talks.html#jean-françois-raskin)
-- 09:40--10:20 Cezara Dragoi
+- 09:40--10:20 Cezara Drăgoi
 	- [Reasoning about State Machine Replication](pages/talks.html#cezara-dragoi)
 - 10:20--10:50 Coffee Break
 - 10:50--11:30 Paul Fiterau-Brostean

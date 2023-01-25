@@ -291,7 +291,7 @@ We study a variant of the problem of synthesizing Mealy machines that enforce LT
 
 ---
 
-#### Cezara Dragoi
+#### Cezara Drăgoi
 
 (Wed 09:40--10:20)
 
